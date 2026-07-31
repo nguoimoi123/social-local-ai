@@ -1,0 +1,6 @@
+streamlit
+ollama
+ddgs
+requests
+pillow
+beautifulsoup4

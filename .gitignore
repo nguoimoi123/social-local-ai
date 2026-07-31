@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+uploads/
+data/saved_posts.json
+.streamlit/secrets.toml
+streamlit.*.log
